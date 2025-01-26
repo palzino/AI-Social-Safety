@@ -72,7 +72,7 @@ export default function Home() {
       <Center mt="md">
         <FileInput
           placeholder="Upload your image"
-          label="Image"
+          label=""
           accept="image/*"
           onChange={setFile}
         />
